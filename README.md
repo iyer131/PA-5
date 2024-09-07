@@ -69,7 +69,7 @@ Each of the lines tells us a board position, printed with the format
 "(%d,%d)(%d,%d)\n"
 The first board position must be a horizontal board that starts at column −1 (the left bank). No
 other board positions in a solution (with the fewest turns) should start at column −1.
-The board positions in two adjacent lines must have one and only one common pair of coordinates.
+The board positions in two adjacent lines must have one and only one common pair of coordinates.
 The last board position must be a horizontal board that ends at column N (the right bank). No
 other board positions in a solution (with the fewest turns) should end at column N.
 It is possible that Jane can visit a board position many times without making any turns. For
