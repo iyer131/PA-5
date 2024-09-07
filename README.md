@@ -74,7 +74,7 @@ The last board position must be a horizontal board that ends at column N (the ri
 other board positions in a solution (with the fewest turns) should end at column N.
 It is possible that Jane can visit a board position many times without making any turns. For
 example, in Figure (6), Jane could move between board positions (1,1)(1,2) and (0,2)(1,2) many
-times without making any turns. However, for this assignment, we require that every board position appears at most once in a solution.
+times without making any turns. However, for this assignment, we require that every board position appears at most once in a solution.
 Of course, there are other ways Jane can reach the right bank with the same number of 4 board
 turns. For example, we list three other possible solutions as follows:
 (2,-1)(2,0)
