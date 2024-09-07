@@ -26,7 +26,7 @@ board 90 degrees (clockwise or counter-clockwise) such that the board latches on
 shown in Figures (2) and (3), Jane un-latches the board from pole (2,0), turns the board 90 degrees
 counter-clockwise, and latches the board between poles (1,0) and (1,1).
 
-She then un-latches the board from pole from (1,0), turns the board 90 degrees counterclockwise, and latches the board between poles (1,1) and (2,1), as shown in Figure (4).
+She then un-latches the board from pole from (1,0), turns the board 90 degrees counterclockwise, and latches the board between poles (1,1) and (2,1), as shown in Figure (4).
 Now, she un-latches the board from pole (2,1), turns the board 90 degrees counter-clockwise,
 and latches the board between poles (1,1) and (1,2), as shown in Figure (5).
 She then moves onto the pre-existing board that is latched between poles (0,2) and (1,2),
