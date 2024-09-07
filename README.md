@@ -1,4 +1,4 @@
-This assignment covers learning objective 1: An understanding of basic data structures, including stacks, queues, and trees; learning objective 3: An ability to apply appropriate sorting and
+This assignment covers learning objective 1: An understanding of basic data structures, including stacks, queues, and trees; learning objective 3: An ability to apply appropriate sorting and
 search algorithms for a given application; learning objective 4: An ability to apply graph theoretic
 techniques, data structures, and algorithms for problem solving; learning objective 5: An ability to
 design and implement appropriate data structures and algorithms for engineering applications.
